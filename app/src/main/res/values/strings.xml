@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BelajarActivity</string>
+    <string name="email">This is the Email</string>
+    <string name="password">This is the Password</string>
+    <string name="today">Today</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="task_1">Task 1</string>
+    <string name="total_task">10 task</string>
+    <string name="date">29 September 2020</string>
+    <string name="day">Selasa</string>
+    <string name="description_1">Description 1</string>
+    <string name="task_2">Task 2</string>
+    <string name="description_2">Description 2</string>
+    <string name="task_3">Task 3</string>
+    <string name="description_3">Description 3</string>
+    <string name="task_4">Task 4</string>
+    <string name="description_4">Description 4</string>
+    <string name="task_5">Task 5</string>
+    <string name="description_5">Description 5</string>
+    <string name="add_new_task_here">Add New Task Here</string>
+    <string name="description">description</string>
+    <string name="title_of_the_task">Title of the Task</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+</resources>
